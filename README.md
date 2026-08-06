@@ -64,4 +64,3 @@ I'm constantly improving as a developer by building projects, learning new techn
 ## 📫 Contact
 
 * GitHub: [@petersonduarte-PT-BR](https://github.com/petersonduarte-PT-BR)
-
