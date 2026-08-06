@@ -64,3 +64,9 @@ I'm constantly improving as a developer by building projects, learning new techn
 ## 📫 Contact
 
 * GitHub: [@petersonduarte-PT-BR](https://github.com/petersonduarte-PT-BR)
+
+  
+* 📌 LinkedIn: [Peteron Duarte](https://www.linkedin.com/in/peterson-duarte-45bb4140b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+  
+* 📧 Email: peterson.duarte.dev@gmail.com
