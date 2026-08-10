@@ -77,3 +77,27 @@ I'm constantly improving as a developer by building projects, learning new techn
 
   
 * 📧 Email: peterson.duarte.dev@gmail.com
+
+
+
+
+
+
+
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake.svg"
+    >
+    <img
+      src="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    >
+  </picture>
+</p>
