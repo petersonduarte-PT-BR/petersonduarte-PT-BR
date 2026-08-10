@@ -1,12 +1,3 @@
-![Peterson Duarte Ferraz Banner](http://googleusercontent.com/image_generation_content/454)
-
-
-
-
-
-
-
-
 # 👋 Hi, I'm Peterson
 
 💻 **Web Developer in Training**
