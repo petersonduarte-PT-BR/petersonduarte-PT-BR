@@ -54,11 +54,11 @@ Currently, I'm developing my **Front-end skills** and expanding my knowledge int
 
 ---
 
-
 ## 🌎 Languages
 
-🇧🇷 **Brazilian Portuguese** — Native  
-🇺🇸 **English** — Intermediate
+<img src="https://flagcdn.com/w20/br.png" width="20"> **Portuguese** — Native  
+
+<img src="https://flagcdn.com/w20/us.png" width="20"> **English** — Learning
 
 ---
 
