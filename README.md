@@ -90,7 +90,7 @@ I'm constantly improving as a developer by building projects, learning new techn
 * 😼 GitHub: [@petersonduarte-PT-BR](https://github.com/petersonduarte-PT-BR)
 
   
-* 📌 LinkedIn: [Peterson Duarte Ferraz] (https://www.linkedin.com/in/peterson-duarte-ferraz)
+* 📌 LinkedIn: https://www.linkedin.com/in/peterson-duarte-ferraz
 
   
 * 📧 Email: peterson.duarte.dev@gmail.com
