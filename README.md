@@ -18,7 +18,7 @@ Currently, I'm developing my **Front-end skills** and expanding my knowledge int
 <h2>💻 Technologies & Tools</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,css,html,vscode,github" alt="JavaScript, CSS, HTML, VS Code">
+   <img src="https://skillicons.dev/icons?i=js,css,html,vscode,github" alt="JavaScript, CSS, HTML, VS Code and GitHub"> 
 </p>
 
 
