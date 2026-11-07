@@ -109,9 +109,6 @@ I believe that consistency, curiosity, and hands-on experience are essential to 
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
 
 <p align="center">
   <picture>
@@ -122,4 +119,10 @@ I believe that consistency, curiosity, and hands-on experience are essential to 
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake.svg"
-  
+    >
+    <img
+      src="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    >
+  </picture>
+</p>
