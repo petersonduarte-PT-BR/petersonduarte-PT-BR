@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Peterson Duarte - Web Developer">
+</p>
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+code%2C+one+step+at+a+time.;Learning+every+day.+Building+every+day.;Code.+Learn.+Build.+Repeat.">
