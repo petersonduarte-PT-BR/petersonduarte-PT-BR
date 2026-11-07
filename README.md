@@ -84,7 +84,7 @@ I'm constantly learning, experimenting, and improving my programming skills thro
 ## 🌎 Languages
 
 - 🇧🇷 **Portuguese:** Native
-- 🇺🇸 **English:** Learning
+- 🇺🇸 **English:** A2 - currently learning
 
 ---
 
