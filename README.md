@@ -2,13 +2,9 @@
 <img width="2048" height="768" alt="d7cb0ae0-ca74-4415-9fec-04c15915743c" src="https://github.com/user-attachments/assets/1fdf5931-801a-4c78-92d3-8c3f8de00e92" />
 
 
-
-
-
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+code%2C+one+step+at+a+time.;Learning+every+day.+Building+every+day.;Code.+Learn.+Build.+Repeat.">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+my+future+one+line+of+code+at+a+time.;Exploring+Front-end+and+Back-end+development.;Learning.+Building.+Improving.;Turning+ideas+into+functional+applications." />
+</p>
 
 ---
 # 👋 Hi, I'm Peterson
