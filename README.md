@@ -7,101 +7,108 @@
 </p>
 
 ---
-# 👋 Hi, I'm Peterson
 
-💻 **Web Developer in Training**
 
-I'm a web development student focused on building practical projects and improving my skills through continuous learning.
+# 👋 Hi, I'm Peterson Duarte
 
-Currently, I'm developing my **Front-end skills** and expanding my knowledge into **Back-end development with Node.js**.
+### 💻 Web Developer | Front-end & Back-end
+
+I'm a web development student passionate about technology, problem-solving, and building practical projects.
+
+Currently, I'm developing my skills in both **Front-end and Back-end development**, focusing on creating functional web applications and understanding how different technologies work together.
+
+I'm constantly learning, experimenting, and improving my programming skills through hands-on projects.
 
 ---
 
+## 💻 Technologies & Tools
 
-<h2>💻 Technologies & Tools</h2>
-
-<p>
-   <img src="https://skillicons.dev/icons?i=js,css,html,vscode,github" alt="JavaScript, CSS, HTML, VS Code and GitHub"> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
+---
 
+## 🚀 Technical Skills
 
+### 🎨 Front-end Development
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- DOM Manipulation
+- Front-end Development
 
+### ⚙️ Back-end Development
+- Node.js
+- Express.js
+- REST APIs
+- HTTP Methods (GET, POST, PUT, DELETE)
+- NPM
+- Server-side Development
 
+### 🗄️ Databases
+- MongoDB
+- MongoDB Atlas
+- Mongoose
+- MySQL
+- CRUD Operations
+- Database Integration
 
 ---
 
+## 📚 What I'm Learning
 
-
-
-## 🚀 Technologies
-
-### Front-end
-
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Design
-* DOM Manipulation
-
-### Back-end (Learning)
-
-* Node.js
-* APIs
-* NPM
-* Databases
+- Building and structuring Back-end applications
+- Creating RESTful APIs with Node.js and Express
+- Connecting applications to databases
+- Working with MongoDB and MySQL
+- Understanding Front-end and Back-end communication
+- Improving JavaScript and programming logic
+- Learning software development best practices
 
 ---
 
-## 📚 Knowledge
+## 🛠️ What I Can Do
 
-✅ Building semantic HTML structures
-✅ Creating responsive layouts with CSS
-✅ JavaScript programming logic
-✅ DOM manipulation and web interactions
-✅ Organizing front-end projects
-🔄 Developing back-end applications with Node.js
-
----
-
-## 🎯 Currently Learning
-
-* Creating servers with Node.js
-* Building REST APIs
-* Package management with NPM
-* Front-end and back-end communication
-* Databases
+- Build responsive web pages
+- Create interactive interfaces using JavaScript
+- Manipulate the DOM and handle user interactions
+- Develop servers using Node.js and Express
+- Create API endpoints and handle HTTP requests
+- Connect applications to databases
+- Perform basic CRUD operations
 
 ---
 
 ## 🌎 Languages
 
-<img src="https://flagcdn.com/w20/br.png" width="20"> **Portuguese** — Native  
-
-<img src="https://flagcdn.com/w20/us.png" width="20"> **English** — Learning
+- 🇧🇷 **Portuguese:** Native
+- 🇺🇸 **English:** Learning
 
 ---
 
 ## 📈 My Journey
 
-I'm constantly improving as a developer by building projects, learning new technologies, and strengthening my programming fundamentals.
+I'm continuously working to become a better developer.
+
+I believe that consistency, curiosity, and hands-on experience are essential to growing in technology.
+
+**Learn. Build. Improve. Repeat.**
 
 ---
 
 ## 📫 Contact
 
-* 😼 GitHub: [@petersonduarte-PT-BR](https://github.com/petersonduarte-PT-BR)
+- 😼 GitHub: [@petersonduarte-PT-BR](https://github.com/petersonduarte-PT-BR)
+- 📌 LinkedIn: [Peterson Duarte](https://www.linkedin.com/in/peterson-duarte-ferraz-45bb4140b/)
+- 📧 Email: peterson.duarte.dev@gmail.com
 
-  
-* 📌 LinkedIn: https://www.linkedin.com/in/peterson-duarte-ferraz-45bb4140b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+---
 
-  
-* 📧 Email: peterson.duarte.dev@gmail.com
-
-
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
 
 
