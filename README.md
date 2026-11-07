@@ -110,8 +110,6 @@ I believe that consistency, curiosity, and hands-on experience are essential to 
   <img src="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
-
-
 <p align="center">
   <picture>
     <source
