@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Peterson Duarte - Web Developer">
-</p>
-
 <img width="2048" height="768" alt="d7cb0ae0-ca74-4415-9fec-04c15915743c" src="https://github.com/user-attachments/assets/1fdf5931-801a-4c78-92d3-8c3f8de00e92" />
 
 
