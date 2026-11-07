@@ -1,3 +1,4 @@
+
 name: Generate Snake
 
 on:
@@ -29,7 +30,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add dist
-          git commit -m "Update snake animation colors" || echo "No changes to commit"
+          git commit -m "Generate snake animation" || echo "No changes to commit"
           git push origin HEAD:output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
