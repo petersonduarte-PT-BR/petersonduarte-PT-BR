@@ -112,8 +112,17 @@ I believe that consistency, curiosity, and hands-on experience are essential to 
 
 ## 🐍 Contribution Snake
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake-dark.svg?v=2">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake.svg?v=2">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/petersonduarte-PT-BR/petersonduarte-PT-BR/output/dist/github-snake.svg?v=2">
 </picture>
